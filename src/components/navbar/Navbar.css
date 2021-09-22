@@ -1,0 +1,23 @@
+.navbar{
+  display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	align-content: center;
+  background: #334756;
+  box-shadow: 0px 0px 15px 5px;
+  height: 60px;
+}
+.navbarContent{
+  display: flex;
+}
+.navbarIcon{
+  height: 60px;
+}
+.navbarTitle{
+  font-size: 30px;
+  font-weight: 900;
+  color: #fff;
+  margin-left: 10px;
+  margin-top: 10px;
+}
